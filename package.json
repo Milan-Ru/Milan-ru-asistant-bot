@@ -1,8 +1,10 @@
 {
-  "name": "honcho-telegram-bot",
-  "version": "1.0.0",
-  "description": "Telegram bot powered by Honcho AI via Netlify Functions",
+  "name": "ai-bot-platform",
+  "version": "3.0.0",
+  "description": "Multi-provider, multi-platform AI bot with admin dashboard",
   "dependencies": {
-    "@supabase/supabase-js": "^2.45.0"
+    "@supabase/supabase-js": "^2.45.0",
+    "bcryptjs": "^2.4.3",
+    "tweetnacl": "^1.0.3"
   }
 }
