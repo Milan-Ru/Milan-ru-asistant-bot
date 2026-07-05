@@ -1,0 +1,9 @@
+{
+  "name": "ai-bot-platform",
+  "version": "4.0.0",
+  "description": "Multi-provider, multi-platform AI bot, controlled via Telegram admin bot",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
